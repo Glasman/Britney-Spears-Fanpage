@@ -1,0 +1,17 @@
+body {
+  background-color: fuchsia;
+}
+
+h1 {
+  border-style: dashed;
+  color:chartreuse
+}
+
+p,h1,h2,ul,ol {
+  font-family: 'Crafty Girls', cursive;
+  font-weight: bold;
+}
+img {
+  display: block;
+  margin: 10px;
+}
